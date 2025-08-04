@@ -7,6 +7,9 @@ This project analyzes user behavior from an A/B test using SQL. It helps evaluat
 - Track click-through behavior by group
 - Analyze time-based trends in user actions
 
+## SQL Skills: 
+- CTEs, statistical aggregation, control vs treatment comparisons
+
 ## 🧱 Schema
 - `users`: A/B assignment and demographic data
 - `events`: User actions (views, clicks, purchases)
